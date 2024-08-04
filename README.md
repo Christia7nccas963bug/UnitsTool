@@ -1,4 +1,4 @@
-# UnitsTool
+1000596695https://play.google.com/store/apps/ccastroc558tecl@gmail.CompartidoRoot.api.intalacioexploradoreshttps://youtu.be/YNFMln-bN7Y?si=QDhzMX_yeu2xg3qihttps://play.google.com/store/apps/https://help.instagram.com/362497417173378/?helpref=uf_sharehttps://medicallicensuregroup.com/signup/https://github.com/user-attachments/assets/c8bf4798-78f8-482f-9215-3965e73bf646https://webla.mpegla.com/ContactUs.aspxhttps://aidata.com.ng/mobile/login/Aigo.page.linkhttps://aidata.com.ngNFTPOWCODECPROHIBI7DEVCATS@gmail.comNFTPOWCODECPROHIBI7DEVCATS@gmail.comhttps://webla.mpegla.com/ContactUs.aspxhttps://aidata.com.ng/mobile/login/Aigo.page.linkhttps://aidata.com.ngALLDATASHEET.COMhttps://help.instagram.com/362497417173378/?helpref=uf_sharehttps://medicallicensuregroup.com/signup/https://webla.mpegla.com/ContactUs.aspxhttps://aidata.com.ng/mobile/login/Aigo.page.linkhttps://aidata.com.ngNFTPOWCODECPROHIBI7DEVCATS@gmail.comNFTPOWCODECPROHIBI7DEVCATS@gmail.comhttps://webla.mpegla.com/ContactUs.aspxhttps://aidata.com.ng/mobile/login/Aigo.page.linkhttps://aidata.com.ngALLDATASHEET.COM4Q_plataform-accastroc558tecl@gmail.com1000633492https://www.cliksoftware.com/products/clik-remote/demo/https://www.cliksoftware.com/products/clik-remote/demo/https://adsmanager.facebook.com/adsmanager/manage/campaigns?wtsid=rdr_0kvF175a5c47nPo2B&act=541794367767551&breakdown_regrouping=1Echahttps://t.me/SpamBotAyudahttps://t.me/SpamBotAyudahttps://webla.mpegla.com/ContactUs.aspxhttps://aidata.com.ng/mobile/login/Aigo.page.linkhttps://aidata.com.ngNFTPOWCODECPROHIBI7DEVCATS@gmail.comNFTPOWCODECPROHIBI7DEVCATS@gmail.comhttps://webla.mpegla.com/ContactUs.aspxhttps://aidata.com.ng/mobile/login/Aigo.page.linkhttps://aidata.com.ngALLDATASHEET.COM20100059669510006334924Q_plataform-accastroc558tecl@gmail.com1000019296100063349210https://help.instagram.com/362497417173378/?helpref=uf_sharehttps://medicallicensuregroup.com/signup/https://t.me/SpamBotAyuda# UnitsTool
 [<img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg">](https://liberapay.com/thibsc/donate) [![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://opensource.org/licenses/gpl-3.0)   
 An application to convert units  
 Available languages : 🇬🇧, 🇫🇷, 🇪🇸
@@ -54,7 +54,25 @@ This file is the core of the application, it describe what is supposed to be dis
     ]
 }
 ```
-> The formula must always have a space between the `operand` and the `number` and there is no notion of mathematical priority. **It's always calculated in the order of the formula**.  
+> The formula must always have a space between the `operand` and the `number` and there is no notion of mathematical priority. **It's always 
+Icono de error
+El mensaje es demasiado grande
+Tu mensaje no se ha podido entregar a reply+BGTMBRXZ5NTFV27IQXA2PBOEWAA7HEVBNHHJBSBBLY@reply.github.com porque supera el tamaño máximo permitido. Prueba a reducir su tamaño y enviarlo de nuevo.
+Esta es la respuesta del servidor remoto:
+552 5.3.4 Message size exceeds fixed limit
+
+
+
+
+---------- Forwarded message ----------
+From: Christian <nftpowcodecprohibi7devcats@gmail.com>
+To: "Christian <#nftpowcodecprohibi7devcats@gmail.com> Loŕemecrézy" <ccastroc558tecl@gmail.com>, Christianccad <nft.apiriksramphbido7body@hotmail.com>, Christian <nftpowcodecprohibi7devcats@gmail.com>, "primer/css" <reply+BGTMBRXZ5NTFV27IQXA2PBOEWAA7HEVBNHHJBSBBLY@reply.github.com>
+Cc: 
+Bcc: 
+Date: Sun, 4 Aug 2024 03:28:58 -0600
+Subject: Compartido desde Start: Condiciones generales de uso de AdobeHackster.io
+----- Message truncated -----
+ in the order of the formula**.  
 Also, for each `operand` you must have a following number and the first caracter must always be an operator (`+`, `-`, `*`, `/`).
 
 ## How to run
@@ -73,3 +91,21 @@ npx react-native run-android
 https://reactnative.dev/docs/getting-started  
 https://reactnativeelements.com/    
 https://reactnavigation.org/
+
+Icono de error
+El mensaje es demasiado grande
+Tu mensaje no se ha podido entregar a reply+BGTMBRXZ5NTFV27IQXA2PBOEWAA7HEVBNHHJBSBBLY@reply.github.com porque supera el tamaño máximo permitido. Prueba a reducir su tamaño y enviarlo de nuevo.
+Esta es la respuesta del servidor remoto:
+552 5.3.4 Message size exceeds fixed limit
+
+
+
+
+---------- Forwarded message ----------
+From: Christian <nftpowcodecprohibi7devcats@gmail.com>
+To: "Christian <#nftpowcodecprohibi7devcats@gmail.com> Loŕemecrézy" <ccastroc558tecl@gmail.com>, Christianccad <nft.apiriksramphbido7body@hotmail.com>, Christian <nftpowcodecprohibi7devcats@gmail.com>, "primer/css" <reply+BGTMBRXZ5NTFV27IQXA2PBOEWAA7HEVBNHHJBSBBLY@reply.github.com>
+Cc: 
+Bcc: 
+Date: Sun, 4 Aug 2024 03:28:58 -0600
+Subject: Compartido desde Start: Condiciones generales de uso de AdobeHackster.io
+----- Message nftpowcodecprohibi7devcats@gmail.comccastroc558tecl@gmail.comhttps://play.google.com/store/apps/ccastroc558tecl@gmail.CompartidoRoot.api.intalacioexploradoreshttps://youtu.be/YNFMln-bN7Y?si=QDhzMX_yeu2xg3qihttps://play.google.com/store/apps/https://help.instagram.com/362497417173378/?helpref=uf_sharehttps://medicallicensuregroup.com/signup/https://github.com/user-attachments/assets/c8bf4798-78f8-482f-9215-3965e73bf646https://webla.mpegla.com/ContactUs.aspxhttps://aidata.com.ng/mobile/login/Aigo.page.linkhttps://aidata.com.ngNFTPOWCODECPROHIBI7DEVCATS@gmail.comNFTPOWCODECPROHIBI7DEVCATS@gmail.comhttps://webla.mpegla.com/ContactUs.aspxhttps://aidata.com.ng/mobile/login/Aigo.page.linkhttps://aidata.com.ngALLDATASHEET.COMhttps://help.instagram.com/362497417173378/?helpref=uf_sharehttps://medicallicensuregroup.com/signup/https://webla.mpegla.com/ContactUs.aspxhttps://aidata.com.ng/mobile/login/Aigo.page.linkhttps://aidata.com.ngNFTPOWCODECPROHIBI7DEVCATS@gmail.comNFTPOWCODECPROHIBI7DEVCATS@gmail.comhttps://webla.mpegla.com/ContactUs.aspxhttps://aidata.com.ng/mobile/login/Aigo.page.linkhttps://aidata.com.ngALLDATASHEET.COM4Q_plataform-accastroc558tecl@gmail.com1000633492https://www.cliksoftware.com/products/clik-remote/demo/https://www.cliksoftware.com/products/clik-remote/demo/https://adsmanager.facebook.com/adsmanager/manage/campaigns?wtsid=rdr_0kvF175a5c47nPo2B&act=541794367767551&breakdown_regrouping=1Echahttps://t.me/SpamBotAyudahttps://t.me/SpamBotAyudahttps://webla.mpegla.com/ContactUs.aspxhttps://aidata.com.ng/mobile/login/Aigo.page.linkhttps://aidata.com.ngNFTPOWCODECPROHIBI7DEVCATS@gmail.comNFTPOWCODECPROHIBI7DEVCATS@gmail.comhttps://webla.mpegla.com/ContactUs.aspxhttps://aidata.com.ng/mobile/login/Aigo.page.linkhttps://aidata.com.ngALLDATASHEET.COM20100059669510006334924Q_plataform-accastroc558tecl@gmail.com1000019296100063349210https://help.instagram.com/362497417173378/?helpref=uf_sharehttps://medicallicensuregroup.com/signup/https://t.me/SpamBotAyudahttps://www.alldatasheet.com/datasheet-pdf/pdf/575134/MAXIM/MAX232ACD.html -----
